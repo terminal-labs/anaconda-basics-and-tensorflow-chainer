@@ -1,1 +1,0 @@
-first take a look at https://github.com/terminal-labs/anaconda-basics-and-cuda
