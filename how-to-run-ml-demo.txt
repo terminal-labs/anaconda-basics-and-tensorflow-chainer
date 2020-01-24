@@ -1,0 +1,4 @@
+in a activated conda python36 env run:
+
+conda install tensorflow
+conda install chainer
